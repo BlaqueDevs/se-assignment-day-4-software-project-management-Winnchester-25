@@ -71,15 +71,15 @@ Collaborative environment with empowered teams fosters motivation and ownership.
 
 * Potential Scope Creep:
 
-* Without strict boundaries, features may be added on without proper planning, leading to project delays. 
+Without strict boundaries, features may be added on without proper planning, leading to project delays. 
 
 * Requires Skilled Teams: 
 
-* Agile demands high levels of self-organization and communication from team members. 
+Agile demands high levels of self-organization and communication from team members. 
 
 * Less Predictable Delivery Dates: 
 
-* Due to the flexible nature, final deadlines can be less clear. 
+Due to the flexible nature, final deadlines can be less clear. 
 
 **Advantages of Waterfall:**
 
